@@ -22,7 +22,7 @@ O sistema simula o funcionamento básico de uma plataforma de pedidos online, co
 - Leitura e escrita de dados em arquivos .txt.
 - Tratamento de exceções personalizadas.
 - Persistência de objetos (pedidos, produtos e usuários).
-- Interface gráfica básica com Swing.
+- Interface gráfica básica com JavaFX.
 
 ---
 
@@ -51,7 +51,7 @@ PedidoException
 
 # Tecnologias Utilizadas
 - Java
-- Swing (interface gráfica)
+- JavaFX (interface gráfica)
 - Collections Framework (ArrayList)
 - Manipulação de Arquivos (java.io)
 - Tratamento de Exceções
@@ -69,7 +69,7 @@ PedidoException
 | Associação entre classes | Pedido → Cliente/Produto |
 | Coleção de objetos | ArrayList |
 | Classe derivada de Exception | PedidoException |
-| Interface gráfica | Swing |
+| Interface gráfica | JavaFX |
 | Leitura e gravação de arquivos | ArquivoUtils |
 | Persistência de objetos | salvar e recuperar pedidos/produtos |
 | Tratamento de exceção | try/catch com PedidoException |
