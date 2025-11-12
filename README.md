@@ -27,28 +27,6 @@ O sistema simula o funcionamento básico de uma plataforma de pedidos online, co
 ---
 
 # Estrutura do Projeto
-## Diagrama de Classes (conceitual)
-
-Usuario (abstrata)
-├── Cliente
-│ └── listaPedidos : ArrayList<Pedido>
-└── Restaurante
-└── listaProdutos : ArrayList<Produto>
-
-Produto
-└── nome, preco, categoria
-
-Pedido
-└── cliente, listaProdutos, total
-
-ArquivoUtils
-└── lerCSV(), salvarCSV()
-
-PedidoException
-└── extends Exception
-
----
-
 # Tecnologias Utilizadas
 - Java
 - JavaFX (interface gráfica)
