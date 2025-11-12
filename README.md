@@ -97,6 +97,7 @@ PedidoException
 
 ---
 
-## 🧠 Fluxo Lógico (com base no fluxograma)
+# Fluxo Lógico (com base no fluxograma)
 
-<img width="1022" height="768" alt="image" src="https://github.com/user-attachments/assets/c849ee3d-6166-4505-afed-27bbf9dc85f2" />
+<img width="904" height="1002" alt="image" src="https://github.com/user-attachments/assets/58c1396d-b54e-46bd-8073-165dc3733e1b" />
+
