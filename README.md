@@ -45,7 +45,8 @@ O sistema simula o funcionamento básico de uma plataforma de pedidos online, co
 
 # Estrutura de Diretórios
 
-<img width="187" height="248" alt="image" src="https://github.com/user-attachments/assets/ce7195b7-7057-4ce9-b914-3b641c9f3926" />
+<img width="493" height="453" alt="image" src="https://github.com/user-attachments/assets/162b84e6-6af6-4900-b8f5-1594e1b87b30" />
+
 
 ---
 
