@@ -2,13 +2,13 @@
 
 ## Visão Geral
 
-Sistema completo de gerenciamento de pedidos inspirado no iFood, desenvolvido em **Java com arquitetura orientada a objetos**, incluindo interface gráfica em **Swing**, persistência de dados e tratamento robusto de exceções.
-
+Projeto desenvolvido em Java, aplicando os conceitos de Programação Orientada a Objetos (POO).
+O sistema simula o funcionamento básico de uma plataforma de pedidos online, com funcionalidades para clientes e restaurantes.
 ---
 
 ## Arquitetura
 
-### Estrutura de Pacotes
+### Estrutura de Diretórios
 
 ```
 src/main/
@@ -262,7 +262,7 @@ try {
 
 ## Dados Iniciais
 
-O sistema vem com dados de exemplo:
+O sistema vem com dados de exemplo como:
 
 ### Clientes
 - **João Silva** | joao@email.com | CPF: 123.456.789-00 | Saldo: R$ 500,00
@@ -280,34 +280,10 @@ O sistema vem com dados de exemplo:
 
 ---
 
-## Como Usar
-
-### Compilar
-```bash
-javac -d . src/main/*.java
-```
-
-### Executar
-```bash
-java -cp . main.Sistema
-```
-
-### Login de Teste
-**Cliente:**
-- Email: joao@email.com
-- Senha: senha123
-
-**Restaurante:**
-- Email: pizza@email.com
-- Senha: senha123
-
----
-
 ## Comentários e Documentação
 
 Todas as classes e métodos possuem:
 - **JavaDoc comments** explicativo
-- **@author** e **@version**
 - **Descrição de parâmetros** com `@param`
 - **Tipo de retorno** com `@return`
 
@@ -339,21 +315,13 @@ Todas as classes e métodos possuem:
 
 ---
 
-## Possíveis Extensões
+## Fluxograma 
 
-1. Criptografia de senhas
-2. Banco de dados (MySQL, PostgreSQL)
-3. API REST para mobile
-4. Sistema de avaliações
-5. Cupons e promoções
-6. Histórico de transações
-7. Notificações em tempo real
-8. Sistema de entregas com rastreamento
+<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/6d9a10cc-7a0a-4a95-a016-0de69d42aa25" />
 
----
+## Fluxo Lógico
 
-## Licença
+<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/7d5b193c-60a7-4364-8ae1-b965b7cb6411" />
 
-Projeto Acadêmico - 2025
 
 
