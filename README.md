@@ -49,12 +49,12 @@ O sistema simula o funcionamento básico de uma plataforma de pedidos online, co
 
 ---
 
-# Fluxograma Lógico
+# Fluxograma Lógico(diagrama)
 
+<img width="904" height="1002" alt="image" src="https://github.com/user-attachments/assets/31c630ea-2e95-44b8-a11d-785c62653a1b"/>
 
 ---
-
 # Fluxo Lógico (com base no fluxograma)
 
-<img width="904" height="1002" alt="image" src="https://github.com/user-attachments/assets/58c1396d-b54e-46bd-8073-165dc3733e1b" />
+<img width="904" height="1002" alt="image" src="https://github.com/user-attachments/assets/abe03553-d2b8-4865-8a4c-4753474ac804" />
 
